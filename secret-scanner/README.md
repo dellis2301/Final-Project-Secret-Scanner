@@ -20,7 +20,7 @@ The scanner checks for:
 
 ## Installation
 
-```bash
+bash
 pip install -r requirements.txt
 Usage
 
